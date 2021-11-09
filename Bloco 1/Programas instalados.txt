@@ -1,0 +1,6 @@
+Programas instalados
+
+- Portugol Studio
+- JDK
+- My SQL
+- Eclipse para desenvolvedor JAVA
