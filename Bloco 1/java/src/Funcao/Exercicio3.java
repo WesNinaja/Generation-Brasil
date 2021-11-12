@@ -23,13 +23,13 @@ public class Exercicio3 {
 
 		
 		
-		result = media (soma);
+		result = media (soma, 4);
 		System.out.println("A media das notas do aluno foi de: "+result);
 		
 	} 
 	
-	public static int media(int a) {
-		int x = a/4;
+	public static int media(int a, int b) {
+		int x = a/b;
 		return x;
 	}
 		
