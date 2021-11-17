@@ -29,10 +29,10 @@ public class Exercicio3 {
 	} 
 	
 	public static int media(int a, int b) {
-		int x = a/b;
-		return x;
-	}
+		return a/b;
 		
+	}
+		 
 }
 
 
