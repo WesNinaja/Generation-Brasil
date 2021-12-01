@@ -6,12 +6,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/hello")
-public class HelloController {
+public class MinhaSegundaAplicacao {
 
 	@GetMapping 
-	public String hello () {
-		return "Habilidades e Mentalidades que usei:"
-				+ "Persistência, Foco e Orientação ao Detalhe.";
+	public String helloWorld () {
+		return "Objetivos de aprendizagem da semana:"
+				+ "Spring mais a fundo, Dependências e Banco de Dados.";
 	}
 	
 }
